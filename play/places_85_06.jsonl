@@ -402,3 +402,6 @@
 {"n":402,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south stair. arc left open. 5 steps. The badge door stays for the win."}
 {"n":403,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Kessler alley. Nobody past the south stair. We win in 6 steps. Arc on the left lane, open."}
 {"n":404,"kind":"place","name":"Kessler alley south stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley south stair. Ivo keeps the badge door for the win. 7 steps, arc on the left lane, open."}
+{"n":405,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south stair. arc left open. 8 steps. The badge door stays for the win."}
+{"n":406,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Kessler alley. Nobody past the south stair. We win in 2 steps. Arc on the left lane, open."}
+{"n":407,"kind":"place","name":"Kessler alley south stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley south stair. Bess keeps the badge door for the win. 3 steps, arc on the left lane, open."}
