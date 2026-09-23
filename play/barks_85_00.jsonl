@@ -17,3 +17,6 @@
 {"n":17,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley west stair. Nia keeps the awning for the win. 4 steps, arc on the left lane, open."}
 {"n":18,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west stair. arc left open. 5 steps. The awning stays for the win."}
 {"n":19,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at Kessler alley. Nobody past the west stair. We win in 6 steps. Arc on the left lane, open."}
+{"n":20,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west stair. Ivo keeps the awning for the win. 7 steps, arc on the left lane, open."}
+{"n":21,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west stair. arc left open. 8 steps. The awning stays for the win."}
+{"n":22,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Kessler alley. Nobody past the west stair. We win in 2 steps. Arc on the left lane, open."}
