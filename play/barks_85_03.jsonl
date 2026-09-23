@@ -914,3 +914,6 @@
 {"n":914,"kind":"place","name":"Mall court north stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court north stair. Matt keeps the shutter for the win. 2 steps, arc on the left lane, open."}
 {"n":915,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north stair. arc left open. 3 steps. The shutter stays for the win."}
 {"n":916,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the shutter at Mall court. Nobody past the north stair. We win in 4 steps. Arc on the left lane, open."}
+{"n":917,"kind":"place","name":"Mall court north stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court north stair. Nia keeps the shutter for the win. 5 steps, arc on the left lane, open."}
+{"n":918,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north stair. arc left open. 6 steps. The shutter stays for the win."}
+{"n":919,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at Mall court. Nobody past the north stair. We win in 7 steps. Arc on the left lane, open."}
