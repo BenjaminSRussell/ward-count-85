@@ -927,3 +927,6 @@
 {"n":927,"kind":"place","name":"the Underpass north stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass north stair. Bess keeps the hydrant for the win. 2 steps, arc on the left lane, open."}
 {"n":928,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north stair. arc left open. 3 steps. The hydrant stays for the win."}
 {"n":929,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Mast yard. Nobody past the north stair. We win in 4 steps. Arc on the left lane, open."}
+{"n":930,"kind":"place","name":"Mast yard north stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard north stair. Matt keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
+{"n":931,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north stair. arc left open. 6 steps. The hydrant stays for the win."}
+{"n":932,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Mast yard. Nobody past the north stair. We win in 7 steps. Arc on the left lane, open."}
