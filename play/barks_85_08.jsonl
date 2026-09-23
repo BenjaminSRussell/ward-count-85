@@ -900,3 +900,6 @@
 {"n":900,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line east roof. Ivo keeps the plywood for the win. 4 steps, arc on the left lane, open."}
 {"n":901,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east roof. arc left open. 5 steps. The plywood stays for the win."}
 {"n":902,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at High line. Nobody past the east roof. We win in 6 steps. Arc on the left lane, open."}
+{"n":903,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east roof. Bess keeps the plywood for the win. 7 steps, arc on the left lane, open."}
+{"n":904,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east roof. arc left open. 8 steps. The plywood stays for the win."}
+{"n":905,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Ward gate. Nobody past the east roof. We win in 2 steps. Arc on the left lane, open."}
