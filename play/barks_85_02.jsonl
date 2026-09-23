@@ -810,3 +810,6 @@
 {"n":810,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof north stair. Matt keeps the plywood for the win. 4 steps, arc on the left lane, open."}
 {"n":811,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north stair. arc left open. 5 steps. The plywood stays for the win."}
 {"n":812,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at Clinic roof. Nobody past the north stair. We win in 6 steps. Arc on the left lane, open."}
+{"n":813,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof north stair. Nia keeps the plywood for the win. 7 steps, arc on the left lane, open."}
+{"n":814,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north stair. arc left open. 8 steps. The plywood stays for the win."}
+{"n":815,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Clinic roof. Nobody past the north stair. We win in 2 steps. Arc on the left lane, open."}
