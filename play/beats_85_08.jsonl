@@ -290,3 +290,6 @@
 {"n":290,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Mall court. Nobody past the west roof. We win in 3 steps. Arc on the left lane, open."}
 {"n":291,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court west roof. Bess keeps the drum for the win. 4 steps, arc on the left lane, open."}
 {"n":292,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west roof. arc left open. 5 steps. The drum stays for the win."}
+{"n":293,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at the Underpass. Nobody past the west roof. We win in 6 steps. Arc on the left lane, open."}
+{"n":294,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass west roof. Matt keeps the drum for the win. 7 steps, arc on the left lane, open."}
+{"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west roof. arc left open. 8 steps. The drum stays for the win."}
