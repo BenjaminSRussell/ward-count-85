@@ -706,3 +706,6 @@
 {"n":706,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west roof. arc left open. 6 steps. The radio coil stays for the win."}
 {"n":707,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Switchyard. Nobody past the west roof. We win in 7 steps. Arc on the left lane, open."}
 {"n":708,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west roof. Ivo keeps the radio coil for the win. 8 steps, arc on the left lane, open."}
+{"n":709,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west roof. arc left open. 2 steps. The radio coil stays for the win."}
+{"n":710,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Switchyard. Nobody past the west roof. We win in 3 steps. Arc on the left lane, open."}
+{"n":711,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard west roof. Bess keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
