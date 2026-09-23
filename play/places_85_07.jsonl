@@ -410,3 +410,6 @@
 {"n":410,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west roof. arc left open. 5 steps. The lamp stays for the win."}
 {"n":411,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Kessler alley. Nobody past the west roof. We win in 6 steps. Arc on the left lane, open."}
 {"n":412,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley west roof. Ivo keeps the lamp for the win. 7 steps, arc on the left lane, open."}
+{"n":413,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west roof. arc left open. 8 steps. The lamp stays for the win."}
+{"n":414,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Kessler alley. Nobody past the west roof. We win in 2 steps. Arc on the left lane, open."}
+{"n":415,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west roof. Bess keeps the lamp for the win. 3 steps, arc on the left lane, open."}
