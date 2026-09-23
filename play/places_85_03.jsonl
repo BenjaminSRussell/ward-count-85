@@ -474,3 +474,6 @@
 {"n":474,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north stair. arc left open. 3 steps. The lamp stays for the win."}
 {"n":475,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at the pier. Nobody past the north stair. We win in 4 steps. Arc on the left lane, open."}
 {"n":476,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier north stair. Ivo keeps the lamp for the win. 5 steps, arc on the left lane, open."}
+{"n":477,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north stair. arc left open. 6 steps. The lamp stays for the win."}
+{"n":478,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at the pier. Nobody past the north stair. We win in 7 steps. Arc on the left lane, open."}
+{"n":479,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north stair. Bess keeps the lamp for the win. 8 steps, arc on the left lane, open."}
