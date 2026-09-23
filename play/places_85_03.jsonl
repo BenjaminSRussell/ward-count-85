@@ -336,3 +336,6 @@
 {"n":336,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north stair. arc left open. 5 steps. The crate stays for the win."}
 {"n":337,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at Drydock. Nobody past the north stair. We win in 6 steps. Arc on the left lane, open."}
 {"n":338,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock north stair. Matt keeps the crate for the win. 7 steps, arc on the left lane, open."}
+{"n":339,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north stair. arc left open. 8 steps. The crate stays for the win."}
+{"n":340,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at Drydock. Nobody past the north stair. We win in 2 steps. Arc on the left lane, open."}
+{"n":341,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock north stair. Nia keeps the crate for the win. 3 steps, arc on the left lane, open."}
