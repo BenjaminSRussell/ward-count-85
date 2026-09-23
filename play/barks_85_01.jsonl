@@ -958,3 +958,6 @@
 {"n":958,"kind":"place","name":"the pier east stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier east stair. Matt keeps the shutter for the win. 6 steps, arc on the left lane, open."}
 {"n":959,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east stair. arc left open. 7 steps. The shutter stays for the win."}
 {"n":960,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the shutter at the pier. Nobody past the east stair. We win in 8 steps. Arc on the left lane, open."}
+{"n":961,"kind":"place","name":"the pier east stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier east stair. Nia keeps the shutter for the win. 2 steps, arc on the left lane, open."}
+{"n":962,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east stair. arc left open. 3 steps. The shutter stays for the win."}
+{"n":963,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at the pier. Nobody past the east stair. We win in 4 steps. Arc on the left lane, open."}
