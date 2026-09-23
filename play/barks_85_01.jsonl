@@ -580,3 +580,6 @@
 {"n":580,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass east stair. Ivo keeps the rebar for the win. 6 steps, arc on the left lane, open."}
 {"n":581,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east stair. arc left open. 7 steps. The rebar stays for the win."}
 {"n":582,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at the Underpass. Nobody past the east stair. We win in 8 steps. Arc on the left lane, open."}
+{"n":583,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass east stair. Bess keeps the rebar for the win. 2 steps, arc on the left lane, open."}
+{"n":584,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east stair. arc left open. 3 steps. The rebar stays for the win."}
+{"n":585,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rebar at Mast yard. Nobody past the east stair. We win in 4 steps. Arc on the left lane, open."}
