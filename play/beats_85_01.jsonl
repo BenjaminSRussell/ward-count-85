@@ -207,3 +207,6 @@
 {"n":207,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the Lot. Nobody past the east stair. We win in 4 steps. Arc on the left lane, open."}
 {"n":208,"kind":"place","name":"the Lot east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot east stair. Ivo keeps the crate for the win. 5 steps, arc on the left lane, open."}
 {"n":209,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east stair. arc left open. 6 steps. The crate stays for the win."}
+{"n":210,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at the Lot. Nobody past the east stair. We win in 7 steps. Arc on the left lane, open."}
+{"n":211,"kind":"place","name":"the Lot east stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot east stair. Bess keeps the crate for the win. 8 steps, arc on the left lane, open."}
+{"n":212,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east stair. arc left open. 2 steps. The crate stays for the win."}
