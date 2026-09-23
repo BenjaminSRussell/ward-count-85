@@ -229,3 +229,6 @@
 {"n":229,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west roof. arc left open. 5 steps. The awning stays for the win."}
 {"n":230,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at High line. Nobody past the west roof. We win in 6 steps. Arc on the left lane, open."}
 {"n":231,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line west roof. Bess keeps the awning for the win. 7 steps, arc on the left lane, open."}
+{"n":232,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west roof. arc left open. 8 steps. The awning stays for the win."}
+{"n":233,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Ward gate. Nobody past the west roof. We win in 2 steps. Arc on the left lane, open."}
+{"n":234,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate west roof. Matt keeps the drum for the win. 3 steps, arc on the left lane, open."}
