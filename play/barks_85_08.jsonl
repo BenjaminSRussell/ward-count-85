@@ -630,3 +630,6 @@
 {"n":630,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass west roof. Matt keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
 {"n":631,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west roof. arc left open. 8 steps. The radio coil stays for the win."}
 {"n":632,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at the Underpass. Nobody past the west roof. We win in 2 steps. Arc on the left lane, open."}
+{"n":633,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass west roof. Nia keeps the radio coil for the win. 3 steps, arc on the left lane, open."}
+{"n":634,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west roof. arc left open. 4 steps. The radio coil stays for the win."}
+{"n":635,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at the Underpass. Nobody past the west roof. We win in 5 steps. Arc on the left lane, open."}
