@@ -370,3 +370,6 @@
 {"n":370,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Ward gate. Nobody past the north stair. We win in 4 steps. Arc on the left lane, open."}
 {"n":371,"kind":"place","name":"Ward gate north stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate north stair. Bess keeps the lamp for the win. 5 steps, arc on the left lane, open."}
 {"n":372,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north stair. arc left open. 6 steps. The lamp stays for the win."}
+{"n":373,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Kessler alley. Nobody past the north stair. We win in 7 steps. Arc on the left lane, open."}
+{"n":374,"kind":"place","name":"Kessler alley north stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley north stair. Matt keeps the lamp for the win. 8 steps, arc on the left lane, open."}
+{"n":375,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north stair. arc left open. 2 steps. The lamp stays for the win."}
