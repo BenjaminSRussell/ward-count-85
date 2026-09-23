@@ -222,3 +222,6 @@
 {"n":222,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south stair. arc left open. 7 steps. The drum stays for the win."}
 {"n":223,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at Ward gate. Nobody past the south stair. We win in 8 steps. Arc on the left lane, open."}
 {"n":224,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate south stair. Ivo keeps the drum for the win. 2 steps, arc on the left lane, open."}
+{"n":225,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south stair. arc left open. 3 steps. The drum stays for the win."}
+{"n":226,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Ward gate. Nobody past the south stair. We win in 4 steps. Arc on the left lane, open."}
+{"n":227,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate south stair. Bess keeps the drum for the win. 5 steps, arc on the left lane, open."}
