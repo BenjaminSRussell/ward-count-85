@@ -482,3 +482,6 @@
 {"n":482,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north stair. arc left open. 3 steps. The badge door stays for the win."}
 {"n":483,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at the pier. Nobody past the north stair. We win in 4 steps. Arc on the left lane, open."}
 {"n":484,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier north stair. Ivo keeps the badge door for the win. 5 steps, arc on the left lane, open."}
+{"n":485,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north stair. arc left open. 6 steps. The badge door stays for the win."}
+{"n":486,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at the pier. Nobody past the north stair. We win in 7 steps. Arc on the left lane, open."}
+{"n":487,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier north stair. Bess keeps the badge door for the win. 8 steps, arc on the left lane, open."}
