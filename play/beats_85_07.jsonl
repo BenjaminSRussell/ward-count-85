@@ -288,3 +288,6 @@
 {"n":288,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at the Underpass. Nobody past the west roof. We win in 2 steps. Arc on the left lane, open."}
 {"n":289,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass west roof. Nia keeps the crate for the win. 3 steps, arc on the left lane, open."}
 {"n":290,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west roof. arc left open. 4 steps. The crate stays for the win."}
+{"n":291,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the Underpass. Nobody past the west roof. We win in 5 steps. Arc on the left lane, open."}
+{"n":292,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass west roof. Ivo keeps the crate for the win. 6 steps, arc on the left lane, open."}
+{"n":293,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west roof. arc left open. 7 steps. The crate stays for the win."}
