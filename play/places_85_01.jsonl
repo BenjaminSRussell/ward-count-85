@@ -617,3 +617,6 @@
 {"n":617,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east stair. arc left open. 8 steps. The rebar stays for the win."}
 {"n":618,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at South stair. Nobody past the east stair. We win in 2 steps. Arc on the left lane, open."}
 {"n":619,"kind":"place","name":"South stair east stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair east stair. Bess keeps the rebar for the win. 3 steps, arc on the left lane, open."}
+{"n":620,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east stair. arc left open. 4 steps. The rebar stays for the win."}
+{"n":621,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rebar at the pier. Nobody past the east stair. We win in 5 steps. Arc on the left lane, open."}
+{"n":622,"kind":"place","name":"the pier east stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier east stair. Matt keeps the rebar for the win. 6 steps, arc on the left lane, open."}
