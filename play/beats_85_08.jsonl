@@ -650,3 +650,6 @@
 {"n":650,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Mast yard. Nobody past the west roof. We win in 6 steps. Arc on the left lane, open."}
 {"n":651,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard west roof. Bess keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
 {"n":652,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west roof. arc left open. 8 steps. The radio coil stays for the win."}
+{"n":653,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at Last Light. Nobody past the west roof. We win in 2 steps. Arc on the left lane, open."}
+{"n":654,"kind":"place","name":"Last Light west roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light west roof. Matt keeps the radio coil for the win. 3 steps, arc on the left lane, open."}
+{"n":655,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west roof. arc left open. 4 steps. The radio coil stays for the win."}
