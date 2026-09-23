@@ -419,3 +419,6 @@
 {"n":419,"kind":"place","name":"Mall court north stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court north stair. Bess keeps the lamp for the win. 4 steps, arc on the left lane, open."}
 {"n":420,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north stair. arc left open. 5 steps. The lamp stays for the win."}
 {"n":421,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at the Underpass. Nobody past the north stair. We win in 6 steps. Arc on the left lane, open."}
+{"n":422,"kind":"place","name":"the Underpass north stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass north stair. Matt keeps the lamp for the win. 7 steps, arc on the left lane, open."}
+{"n":423,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north stair. arc left open. 8 steps. The lamp stays for the win."}
+{"n":424,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the lamp at the Underpass. Nobody past the north stair. We win in 2 steps. Arc on the left lane, open."}
