@@ -705,3 +705,6 @@
 {"n":705,"kind":"place","name":"Kessler alley north stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley north stair. Nia keeps the plywood for the win. 4 steps, arc on the left lane, open."}
 {"n":706,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north stair. arc left open. 5 steps. The plywood stays for the win."}
 {"n":707,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Kessler alley. Nobody past the north stair. We win in 6 steps. Arc on the left lane, open."}
+{"n":708,"kind":"place","name":"Kessler alley north stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley north stair. Ivo keeps the plywood for the win. 7 steps, arc on the left lane, open."}
+{"n":709,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north stair. arc left open. 8 steps. The plywood stays for the win."}
+{"n":710,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Kessler alley. Nobody past the north stair. We win in 2 steps. Arc on the left lane, open."}
