@@ -776,3 +776,6 @@
 {"n":776,"kind":"place","name":"South stair east stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair east stair. Ivo keeps the plywood for the win. 7 steps, arc on the left lane, open."}
 {"n":777,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east stair. arc left open. 8 steps. The plywood stays for the win."}
 {"n":778,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at South stair. Nobody past the east stair. We win in 2 steps. Arc on the left lane, open."}
+{"n":779,"kind":"place","name":"South stair east stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair east stair. Bess keeps the plywood for the win. 3 steps, arc on the left lane, open."}
+{"n":780,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east stair. arc left open. 4 steps. The plywood stays for the win."}
+{"n":781,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at the pier. Nobody past the east stair. We win in 5 steps. Arc on the left lane, open."}
