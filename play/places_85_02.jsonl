@@ -802,3 +802,6 @@
 {"n":802,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north stair. arc left open. 3 steps. The plywood stays for the win."}
 {"n":803,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at the pier. Nobody past the north stair. We win in 4 steps. Arc on the left lane, open."}
 {"n":804,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier north stair. Ivo keeps the plywood for the win. 5 steps, arc on the left lane, open."}
+{"n":805,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north stair. arc left open. 6 steps. The plywood stays for the win."}
+{"n":806,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at the pier. Nobody past the north stair. We win in 7 steps. Arc on the left lane, open."}
+{"n":807,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier north stair. Bess keeps the plywood for the win. 8 steps, arc on the left lane, open."}
