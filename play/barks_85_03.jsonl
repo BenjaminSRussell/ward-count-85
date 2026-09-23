@@ -962,3 +962,6 @@
 {"n":962,"kind":"place","name":"South stair north stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair north stair. Matt keeps the shutter for the win. 8 steps, arc on the left lane, open."}
 {"n":963,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north stair. arc left open. 2 steps. The shutter stays for the win."}
 {"n":964,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the shutter at South stair. Nobody past the north stair. We win in 3 steps. Arc on the left lane, open."}
+{"n":965,"kind":"place","name":"South stair north stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair north stair. Nia keeps the shutter for the win. 4 steps, arc on the left lane, open."}
+{"n":966,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north stair. arc left open. 5 steps. The shutter stays for the win."}
+{"n":967,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at South stair. Nobody past the north stair. We win in 6 steps. Arc on the left lane, open."}
