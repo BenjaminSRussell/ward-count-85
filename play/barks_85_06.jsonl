@@ -422,3 +422,6 @@
 {"n":422,"kind":"place","name":"Stockyard fence south stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence south stair. Matt keeps the badge door for the win. 4 steps, arc on the left lane, open."}
 {"n":423,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south stair. arc left open. 5 steps. The badge door stays for the win."}
 {"n":424,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the badge door at Stockyard fence. Nobody past the south stair. We win in 6 steps. Arc on the left lane, open."}
+{"n":425,"kind":"place","name":"Stockyard fence south stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence south stair. Nia keeps the badge door for the win. 7 steps, arc on the left lane, open."}
+{"n":426,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south stair. arc left open. 8 steps. The badge door stays for the win."}
+{"n":427,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Stockyard fence. Nobody past the south stair. We win in 2 steps. Arc on the left lane, open."}
