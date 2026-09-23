@@ -867,3 +867,6 @@
 {"n":867,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at Switchyard. Nobody past the west roof. We win in 7 steps. Arc on the left lane, open."}
 {"n":868,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west roof. Ivo keeps the rope for the win. 8 steps, arc on the left lane, open."}
 {"n":869,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west roof. arc left open. 2 steps. The rope stays for the win."}
+{"n":870,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Switchyard. Nobody past the west roof. We win in 3 steps. Arc on the left lane, open."}
+{"n":871,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard west roof. Bess keeps the rope for the win. 4 steps, arc on the left lane, open."}
+{"n":872,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west roof. arc left open. 5 steps. The rope stays for the win."}
