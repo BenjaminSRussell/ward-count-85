@@ -438,3 +438,6 @@
 {"n":438,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north stair. arc left open. 2 steps. The lamp stays for the win."}
 {"n":439,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Mast yard. Nobody past the north stair. We win in 3 steps. Arc on the left lane, open."}
 {"n":440,"kind":"place","name":"Mast yard north stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north stair. Ivo keeps the lamp for the win. 4 steps, arc on the left lane, open."}
+{"n":441,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north stair. arc left open. 5 steps. The lamp stays for the win."}
+{"n":442,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Mast yard. Nobody past the north stair. We win in 6 steps. Arc on the left lane, open."}
+{"n":443,"kind":"place","name":"Mast yard north stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard north stair. Bess keeps the lamp for the win. 7 steps, arc on the left lane, open."}
