@@ -559,3 +559,6 @@
 {"n":559,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at the Lot. Nobody past the north stair. We win in 4 steps. Arc on the left lane, open."}
 {"n":560,"kind":"place","name":"the Lot north stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot north stair. Ivo keeps the rebar for the win. 5 steps, arc on the left lane, open."}
 {"n":561,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north stair. arc left open. 6 steps. The rebar stays for the win."}
+{"n":562,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at the Lot. Nobody past the north stair. We win in 7 steps. Arc on the left lane, open."}
+{"n":563,"kind":"place","name":"the Lot north stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot north stair. Bess keeps the rebar for the win. 8 steps, arc on the left lane, open."}
+{"n":564,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north stair. arc left open. 2 steps. The rebar stays for the win."}
