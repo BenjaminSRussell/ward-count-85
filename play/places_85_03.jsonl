@@ -684,3 +684,6 @@
 {"n":684,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north stair. arc left open. 3 steps. The rebar stays for the win."}
 {"n":685,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rebar at High line. Nobody past the north stair. We win in 4 steps. Arc on the left lane, open."}
 {"n":686,"kind":"place","name":"High line north stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line north stair. Matt keeps the rebar for the win. 5 steps, arc on the left lane, open."}
+{"n":687,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north stair. arc left open. 6 steps. The rebar stays for the win."}
+{"n":688,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at High line. Nobody past the north stair. We win in 7 steps. Arc on the left lane, open."}
+{"n":689,"kind":"place","name":"High line north stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line north stair. Nia keeps the rebar for the win. 8 steps, arc on the left lane, open."}
