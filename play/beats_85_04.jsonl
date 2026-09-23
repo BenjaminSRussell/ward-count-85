@@ -714,3 +714,6 @@
 {"n":714,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Ward gate. Nobody past the south stair. We win in 4 steps. Arc on the left lane, open."}
 {"n":715,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate south stair. Bess keeps the plywood for the win. 5 steps, arc on the left lane, open."}
 {"n":716,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south stair. arc left open. 6 steps. The plywood stays for the win."}
+{"n":717,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Kessler alley. Nobody past the south stair. We win in 7 steps. Arc on the left lane, open."}
+{"n":718,"kind":"place","name":"Kessler alley south stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley south stair. Matt keeps the plywood for the win. 8 steps, arc on the left lane, open."}
+{"n":719,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south stair. arc left open. 2 steps. The plywood stays for the win."}
