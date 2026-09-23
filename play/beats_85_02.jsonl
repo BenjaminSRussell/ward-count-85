@@ -992,3 +992,6 @@
 {"n":992,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Switchyard. Nobody past the north stair. We win in 4 steps. Arc on the left lane, open."}
 {"n":993,"kind":"place","name":"Switchyard north stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard north stair. Nia keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
 {"n":994,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north stair. arc left open. 6 steps. The hydrant stays for the win."}
+{"n":995,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Switchyard. Nobody past the north stair. We win in 7 steps. Arc on the left lane, open."}
+{"n":996,"kind":"place","name":"Switchyard north stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard north stair. Ivo keeps the hydrant for the win. 8 steps, arc on the left lane, open."}
+{"n":997,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north stair. arc left open. 2 steps. The hydrant stays for the win."}
