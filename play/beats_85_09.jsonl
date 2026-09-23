@@ -775,3 +775,6 @@
 {"n":775,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at the Lot. Nobody past the east roof. We win in 4 steps. Arc on the left lane, open."}
 {"n":776,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot east roof. Ivo keeps the rope for the win. 5 steps, arc on the left lane, open."}
 {"n":777,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east roof. arc left open. 6 steps. The rope stays for the win."}
+{"n":778,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at the Lot. Nobody past the east roof. We win in 7 steps. Arc on the left lane, open."}
+{"n":779,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot east roof. Bess keeps the rope for the win. 8 steps, arc on the left lane, open."}
+{"n":780,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east roof. arc left open. 2 steps. The rope stays for the win."}
