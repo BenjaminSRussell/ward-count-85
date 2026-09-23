@@ -860,3 +860,6 @@
 {"n":860,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard west roof. Ivo keeps the plywood for the win. 8 steps, arc on the left lane, open."}
 {"n":861,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west roof. arc left open. 2 steps. The plywood stays for the win."}
 {"n":862,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Switchyard. Nobody past the west roof. We win in 3 steps. Arc on the left lane, open."}
+{"n":863,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west roof. Bess keeps the plywood for the win. 4 steps, arc on the left lane, open."}
+{"n":864,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west roof. arc left open. 5 steps. The plywood stays for the win."}
+{"n":865,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Drydock. Nobody past the west roof. We win in 6 steps. Arc on the left lane, open."}
