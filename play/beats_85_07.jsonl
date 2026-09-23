@@ -210,3 +210,6 @@
 {"n":210,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Drydock. Nobody past the west roof. We win in 8 steps. Arc on the left lane, open."}
 {"n":211,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock west roof. Bess keeps the barrel for the win. 2 steps, arc on the left lane, open."}
 {"n":212,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west roof. arc left open. 3 steps. The barrel stays for the win."}
+{"n":213,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at High line. Nobody past the west roof. We win in 4 steps. Arc on the left lane, open."}
+{"n":214,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line west roof. Matt keeps the barrel for the win. 5 steps, arc on the left lane, open."}
+{"n":215,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west roof. arc left open. 6 steps. The barrel stays for the win."}
