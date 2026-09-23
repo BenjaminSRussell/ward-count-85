@@ -314,3 +314,6 @@
 {"n":314,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof north stair. Matt keeps the crate for the win. 4 steps, arc on the left lane, open."}
 {"n":315,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north stair. arc left open. 5 steps. The crate stays for the win."}
 {"n":316,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at Clinic roof. Nobody past the north stair. We win in 6 steps. Arc on the left lane, open."}
+{"n":317,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof north stair. Nia keeps the crate for the win. 7 steps, arc on the left lane, open."}
+{"n":318,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north stair. arc left open. 8 steps. The crate stays for the win."}
+{"n":319,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Clinic roof. Nobody past the north stair. We win in 2 steps. Arc on the left lane, open."}
