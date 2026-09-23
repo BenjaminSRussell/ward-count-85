@@ -237,3 +237,6 @@
 {"n":237,"kind":"place","name":"the Lot south stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot south stair. Nia keeps the crate for the win. 2 steps, arc on the left lane, open."}
 {"n":238,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south stair. arc left open. 3 steps. The crate stays for the win."}
 {"n":239,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the Lot. Nobody past the south stair. We win in 4 steps. Arc on the left lane, open."}
+{"n":240,"kind":"place","name":"the Lot south stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot south stair. Ivo keeps the crate for the win. 5 steps, arc on the left lane, open."}
+{"n":241,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south stair. arc left open. 6 steps. The crate stays for the win."}
+{"n":242,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at the Lot. Nobody past the south stair. We win in 7 steps. Arc on the left lane, open."}
