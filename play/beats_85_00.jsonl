@@ -946,3 +946,6 @@
 {"n":946,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at South stair. Nobody past the east stair. We win in 2 steps. Arc on the left lane, open."}
 {"n":947,"kind":"place","name":"South stair east stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east stair. Bess keeps the hydrant for the win. 3 steps, arc on the left lane, open."}
 {"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east stair. arc left open. 4 steps. The hydrant stays for the win."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at the pier. Nobody past the east stair. We win in 5 steps. Arc on the left lane, open."}
+{"n":950,"kind":"place","name":"the pier east stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east stair. Matt keeps the hydrant for the win. 6 steps, arc on the left lane, open."}
+{"n":951,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east stair. arc left open. 7 steps. The hydrant stays for the win."}
