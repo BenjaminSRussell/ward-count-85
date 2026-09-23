@@ -563,3 +563,6 @@
 {"n":563,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at High line. Nobody past the west roof. We win in 3 steps. Arc on the left lane, open."}
 {"n":564,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line west roof. Ivo keeps the badge door for the win. 4 steps, arc on the left lane, open."}
 {"n":565,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west roof. arc left open. 5 steps. The badge door stays for the win."}
+{"n":566,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at High line. Nobody past the west roof. We win in 6 steps. Arc on the left lane, open."}
+{"n":567,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west roof. Bess keeps the badge door for the win. 7 steps, arc on the left lane, open."}
+{"n":568,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west roof. arc left open. 8 steps. The badge door stays for the win."}
