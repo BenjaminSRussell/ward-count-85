@@ -216,3 +216,6 @@
 {"n":216,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at Stockyard fence. Nobody past the east stair. We win in 6 steps. Arc on the left lane, open."}
 {"n":217,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence east stair. Nia keeps the crate for the win. 7 steps, arc on the left lane, open."}
 {"n":218,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east stair. arc left open. 8 steps. The crate stays for the win."}
+{"n":219,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Stockyard fence. Nobody past the east stair. We win in 2 steps. Arc on the left lane, open."}
+{"n":220,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence east stair. Ivo keeps the crate for the win. 3 steps, arc on the left lane, open."}
+{"n":221,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east stair. arc left open. 4 steps. The crate stays for the win."}
