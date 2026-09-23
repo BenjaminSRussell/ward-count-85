@@ -606,3 +606,6 @@
 {"n":606,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west stair. arc left open. 5 steps. The radio coil stays for the win."}
 {"n":607,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at South stair. Nobody past the west stair. We win in 6 steps. Arc on the left lane, open."}
 {"n":608,"kind":"place","name":"South stair west stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair west stair. Ivo keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
+{"n":609,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west stair. arc left open. 8 steps. The radio coil stays for the win."}
+{"n":610,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at South stair. Nobody past the west stair. We win in 2 steps. Arc on the left lane, open."}
+{"n":611,"kind":"place","name":"South stair west stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair west stair. Bess keeps the radio coil for the win. 3 steps, arc on the left lane, open."}
