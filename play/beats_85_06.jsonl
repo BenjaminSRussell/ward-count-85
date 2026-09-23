@@ -943,3 +943,6 @@
 {"n":943,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Mall court. Nobody past the west roof. We win in 7 steps. Arc on the left lane, open."}
 {"n":944,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court west roof. Ivo keeps the hydrant for the win. 8 steps, arc on the left lane, open."}
 {"n":945,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west roof. arc left open. 2 steps. The hydrant stays for the win."}
+{"n":946,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Mall court. Nobody past the west roof. We win in 3 steps. Arc on the left lane, open."}
+{"n":947,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court west roof. Bess keeps the hydrant for the win. 4 steps, arc on the left lane, open."}
+{"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west roof. arc left open. 5 steps. The hydrant stays for the win."}
