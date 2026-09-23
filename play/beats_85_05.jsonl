@@ -311,3 +311,6 @@
 {"n":311,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at South stair. Nobody past the south stair. We win in 6 steps. Arc on the left lane, open."}
 {"n":312,"kind":"place","name":"South stair south stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair south stair. Ivo keeps the crate for the win. 7 steps, arc on the left lane, open."}
 {"n":313,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south stair. arc left open. 8 steps. The crate stays for the win."}
+{"n":314,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at South stair. Nobody past the south stair. We win in 2 steps. Arc on the left lane, open."}
+{"n":315,"kind":"place","name":"South stair south stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair south stair. Bess keeps the crate for the win. 3 steps, arc on the left lane, open."}
+{"n":316,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south stair. arc left open. 4 steps. The crate stays for the win."}
