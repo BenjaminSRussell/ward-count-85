@@ -813,3 +813,6 @@
 {"n":813,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east roof. arc left open. 7 steps. The rope stays for the win."}
 {"n":814,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at the Underpass. Nobody past the east roof. We win in 8 steps. Arc on the left lane, open."}
 {"n":815,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass east roof. Bess keeps the rope for the win. 2 steps, arc on the left lane, open."}
+{"n":816,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east roof. arc left open. 3 steps. The rope stays for the win."}
+{"n":817,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at Mast yard. Nobody past the east roof. We win in 4 steps. Arc on the left lane, open."}
+{"n":818,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mast yard east roof. Matt keeps the rope for the win. 5 steps, arc on the left lane, open."}
