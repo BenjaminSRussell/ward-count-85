@@ -948,3 +948,6 @@
 {"n":948,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Mast yard. Nobody past the south stair. We win in 7 steps. Arc on the left lane, open."}
 {"n":949,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard south stair. Nia keeps the hydrant for the win. 8 steps, arc on the left lane, open."}
 {"n":950,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south stair. arc left open. 2 steps. The hydrant stays for the win."}
+{"n":951,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Mast yard. Nobody past the south stair. We win in 3 steps. Arc on the left lane, open."}
+{"n":952,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south stair. Ivo keeps the hydrant for the win. 4 steps, arc on the left lane, open."}
+{"n":953,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south stair. arc left open. 5 steps. The hydrant stays for the win."}
