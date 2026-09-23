@@ -82,3 +82,6 @@
 {"n":82,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west roof. arc left open. 5 steps. The awning stays for the win."}
 {"n":83,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at Kessler alley. Nobody past the west roof. We win in 6 steps. Arc on the left lane, open."}
 {"n":84,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley west roof. Ivo keeps the awning for the win. 7 steps, arc on the left lane, open."}
+{"n":85,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west roof. arc left open. 8 steps. The awning stays for the win."}
+{"n":86,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Kessler alley. Nobody past the west roof. We win in 2 steps. Arc on the left lane, open."}
+{"n":87,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley west roof. Bess keeps the awning for the win. 3 steps, arc on the left lane, open."}
