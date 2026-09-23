@@ -574,3 +574,6 @@
 {"n":574,"kind":"place","name":"Stockyard fence north stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north stair. Matt keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
 {"n":575,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north stair. arc left open. 5 steps. The radio coil stays for the win."}
 {"n":576,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the north stair. We win in 6 steps. Arc on the left lane, open."}
+{"n":577,"kind":"place","name":"Stockyard fence north stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence north stair. Nia keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
+{"n":578,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north stair. arc left open. 8 steps. The radio coil stays for the win."}
+{"n":579,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Stockyard fence. Nobody past the north stair. We win in 2 steps. Arc on the left lane, open."}
