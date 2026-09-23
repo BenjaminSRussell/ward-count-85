@@ -629,3 +629,6 @@
 {"n":629,"kind":"place","name":"Clinic roof west stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof west stair. Nia keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
 {"n":630,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west stair. arc left open. 8 steps. The radio coil stays for the win."}
 {"n":631,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Clinic roof. Nobody past the west stair. We win in 2 steps. Arc on the left lane, open."}
+{"n":632,"kind":"place","name":"Clinic roof west stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof west stair. Ivo keeps the radio coil for the win. 3 steps, arc on the left lane, open."}
+{"n":633,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west stair. arc left open. 4 steps. The radio coil stays for the win."}
+{"n":634,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Clinic roof. Nobody past the west stair. We win in 5 steps. Arc on the left lane, open."}
