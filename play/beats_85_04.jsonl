@@ -165,3 +165,6 @@
 {"n":165,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at Switchyard. Nobody past the north stair. We win in 8 steps. Arc on the left lane, open."}
 {"n":166,"kind":"place","name":"Switchyard north stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard north stair. Matt keeps the awning for the win. 2 steps, arc on the left lane, open."}
 {"n":167,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north stair. arc left open. 3 steps. The awning stays for the win."}
+{"n":168,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the awning at Switchyard. Nobody past the north stair. We win in 4 steps. Arc on the left lane, open."}
+{"n":169,"kind":"place","name":"Switchyard north stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard north stair. Nia keeps the awning for the win. 5 steps, arc on the left lane, open."}
+{"n":170,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north stair. arc left open. 6 steps. The awning stays for the win."}
