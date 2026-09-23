@@ -542,3 +542,6 @@
 {"n":542,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west roof. arc left open. 4 steps. The lamp stays for the win."}
 {"n":543,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Drydock. Nobody past the west roof. We win in 5 steps. Arc on the left lane, open."}
 {"n":544,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock west roof. Ivo keeps the lamp for the win. 6 steps, arc on the left lane, open."}
+{"n":545,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west roof. arc left open. 7 steps. The lamp stays for the win."}
+{"n":546,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Drydock. Nobody past the west roof. We win in 8 steps. Arc on the left lane, open."}
+{"n":547,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock west roof. Bess keeps the lamp for the win. 2 steps, arc on the left lane, open."}
