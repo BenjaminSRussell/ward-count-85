@@ -394,3 +394,6 @@
 {"n":394,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west roof. arc left open. 2 steps. The drum stays for the win."}
 {"n":395,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at High line. Nobody past the west roof. We win in 3 steps. Arc on the left lane, open."}
 {"n":396,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line west roof. Ivo keeps the drum for the win. 4 steps, arc on the left lane, open."}
+{"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west roof. arc left open. 5 steps. The drum stays for the win."}
+{"n":398,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at High line. Nobody past the west roof. We win in 6 steps. Arc on the left lane, open."}
+{"n":399,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line west roof. Bess keeps the drum for the win. 7 steps, arc on the left lane, open."}
